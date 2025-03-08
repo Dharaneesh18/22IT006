@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print your Register Number
-        run: echo "Hello World-22it006!
+        run: echo "Hello World-22it006"
 
       - name: Checkout
         uses: actions/checkout@v4
