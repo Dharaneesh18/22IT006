@@ -1,8 +1,8 @@
-name: docker-pipeline-Sakthi
+name: docker-pipeline-Dharaneesh
 on: push
 jobs:
-  my-job:
+  docker-job:
     runs-on: ubuntu-latest
     steps:
-      - name: Print your name
-        run: echo "Hello World-Sakthi!"
+      - name: Print your Register Number
+        run: echo "Hello World-22it006!"
