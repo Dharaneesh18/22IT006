@@ -13,6 +13,11 @@ jobs:
       - name: Docker Build
         run: docker build -t dharaneesh1318/ml-model-22it006
 
+      - name: Docker Images
+        run: docker images
+
+      
+
         
 
 
